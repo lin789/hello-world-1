@@ -3,3 +3,4 @@ second hello-world
 
 beautiful
 because i see 
+smart i see
