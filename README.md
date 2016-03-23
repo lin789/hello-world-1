@@ -1,6 +1,6 @@
 # hello-world-1
 second hello-world
 
-beautiful
+beautiful because i see
 
-smart 
+smart
